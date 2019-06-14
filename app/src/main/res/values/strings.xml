@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+
+    <string name="register_product_title">Register Product</string>
+    <string name="display_products_title">Display Products</string>
+    <string name="availability_title">Availability</string>
+    <string name="edit_product_title">Edit Product</string>
+    <string name="update_product_title">Update Product</string>
+    <string name="search_title">Search</string>
+    <string name="recipes_title">Recipes</string>
+    <string name="about_title">About FoodApp</string>
+
+    <string name="register_product_subtitle">Register a Food Item</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_id">Product ID</string>
+    <string name="product_availability">Product Availability</string>
+    <string name="product_weight">Product Weight (g)</string>
+    <string name="product_price">Price (GBP / £)</string>
+    <string name="product_description">Product Description</string>
+    <string name="register_product_button">Register Product</string>
+    <string name="product_name_hint">Mild Cheddar</string>
+    <string name="product_weight_hint">400</string>
+    <string name="product_price_hint">2.40</string>
+    <string name="product_description_hint">Product of  UK, Energy (per 100g) 1725kJ, Fat:34.9g</string>
+
+    <string name="add_to_kitchen_button_title">Add to Kitchen</string>
+
+    <string name="display_products_subheadline">All Products</string>
+
+    <string name="edit_product_sub_title">Click on the Product to Update</string>
+
+    <string name="save_product_btn1">Save</string>
+    <string name="product_availability_subtile">All Available Products</string>
+
+    <string-array name="sp_available">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string name="btn_findRecipie">Find Recipes</string>
+</resources>
